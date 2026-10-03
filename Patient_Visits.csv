@@ -1,0 +1,11 @@
+﻿Visit_ID,Patient_ID,Appointment_Date,Appointment_Time,Department,Provider_Name,Scheduled_Duration,Actual_Duration,Wait_Time_Minutes,Visit_Status,Satisfaction_Score
+1001,501,8/12/2024,9:30,Cardiology,Dr. Smith,30,45,20,Completed,4
+1002,502,8/12/2024,10:00,Orthopedics,Dr. Lee,20,25,10,Completed,5
+1003,503,8/12/2024,11:15,General Medicine,Dr. Patel,15,18,5,Completed,3
+1004,504,8/12/2024,13:00,Neurology,Dr. Adams,30,60,35,Completed,2
+1005,505,8/12/2024,14:45,Dermatology,Dr. Brown,20,20,8,Completed,4
+1006,506,8/12/2024,15:30,Cardiology,Dr. Smith,30,30,25,No-Show,
+1007,507,8/12/2024,16:00,General Medicine,Dr. Patel,15,15,12,Completed,5
+1008,508,8/13/2024,9:00,Orthopedics,Dr. Lee,20,22,18,Completed,3
+1009,509,8/13/2024,10:30,Neurology,Dr. Adams,30,40,30,Completed,2
+1010,510,8/13/2024,11:00,Dermatology,Dr. Brown,20,25,15,Cancelled,
